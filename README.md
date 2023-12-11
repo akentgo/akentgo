@@ -1,8 +1,6 @@
 <h1 align="center">Hi I'm Alejandro Kent González</h1>
 <h3 align="center">A student at 42 Málaga</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akentgo" alt="akentgo" /></a> </p>
-
 - I’m currently learning **C++**
 
 - 📫 How to reach me **alexkg007@gmail.com**
