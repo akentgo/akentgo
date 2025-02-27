@@ -1,7 +1,7 @@
 <h1 align="center">Hi I'm Alejandro Kent González</h1>
 <h3 align="center">A student at 42 Málaga</h3>
 
-- I’m currently learning **C++**
+- I’m currently learning **Options and Futures**
 
 - 📫 How to reach me **alexkg007@gmail.com**
 
